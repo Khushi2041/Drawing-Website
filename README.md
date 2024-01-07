@@ -3,3 +3,5 @@ A drawing website using HTML, CSS, jQuery UI, HTML5 Canvas. In this, the user ca
 
 <img width="950" alt="image" src="https://github.com/Khushi2041/Drawing-Website/assets/112477607/01a39384-a008-4f11-acce-2428bbe4bf7f">
 
+The website is live at- https://khushi2041.github.io/Drawing-Website/
+
